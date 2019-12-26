@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpanishBoloMain</string>
+    <string name="title_home">Course</string>
+    <string name="title_dashboard">My Course</string>
+    <string name="title_notifications">Wishlist</string>
+    <string name="title_account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

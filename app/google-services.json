@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498929959753",
+    "firebase_url": "https://spanishbolomain-32057.firebaseio.com",
+    "project_id": "spanishbolomain-32057",
+    "storage_bucket": "spanishbolomain-32057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498929959753:android:cae5f47b35c8d3bb2d5098",
+        "android_client_info": {
+          "package_name": "com.rainbow.spanishbolomain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498929959753-6e1g8q5fb7id0i299hd5d6qq8f2hig7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rainbow.spanishbolomain",
+            "certificate_hash": "e8af14949c803f210a5f8ecd5ff81ac5a31c6b0d"
+          }
+        },
+        {
+          "client_id": "498929959753-uo5ltq3iok3tc8ljnid6chhjvmkce7qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb2r7V1nH4ttSCZG7SECKo6bp0NToFdQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498929959753-uo5ltq3iok3tc8ljnid6chhjvmkce7qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
